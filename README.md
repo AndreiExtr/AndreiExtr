@@ -11,8 +11,7 @@
 <ul>
   <li>Product Design</li>
   <li>UX/UI</li>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>HTML/CSS</li>
   <li>C# (Avalonia UI, WPF)</li>
 </ul>
 
@@ -23,6 +22,13 @@
   <li>Purposefulness</li>
   <li>Effective communication</li>
 </ul>
+
+| Hard skills | Soft skills |
+| --- | --- |
+| `Product Design` | List all *new or modified* files |
+| `UX/UI` | Show file differences that **haven't been** staged |
+| `HTML/CSS` | Show file differences that **haven't been** staged |
+| `C# (Avalonia UI, WPF)` | Show file differences that **haven't been** staged |
 
 
 
