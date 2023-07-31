@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="left">Hi there, I'm Andrey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32"/></h1>
 <h3 align="left">I work in product design. Student of the Faculty of Information Systems and Programming</h3>
 
 ### Skills
