@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/fb/35/dd/fb35ddef50db9bc92b080768c7551d03.jpg" width="1000"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
 </div>
 
 <h1 align="left">Hi there, I'm Andrey</a> 
