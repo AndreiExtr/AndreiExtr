@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://cdn.codegym.vn/wp-content/uploads/2022/12/ui-ux-la-gi-0.webp" width="100"/>
 </div>
 
 <h1 align="left">Hi there, I'm Andrey</a> 
