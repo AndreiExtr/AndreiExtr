@@ -6,8 +6,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">I work in product design. Student of the Faculty of Information Systems and Programming</h3>
 
-<h2 align="left">Skills</a> 
-<iframe src="https://giphy.com/embed/DfipjJJu44zRaX1rdK" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3d-emoji-animated-emoticon-DfipjJJu44zRaX1rdK">via GIPHY</a></p>"
+<h2 align="left">Skills</a>
+<img src="https://giphy.com/gifs/3d-emoji-animated-emoticon-DfipjJJu44zRaX1rdK" height="32"/></h2>
 
 <!--
 **AndreiExtr/andreiExtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
