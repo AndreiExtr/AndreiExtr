@@ -8,10 +8,10 @@
 
 <h2 align="left">Skills</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/glasses.gif" height="32"/></h2>
-+ Product Design
-+ HTML
-+ CSS
-+ C#
+Product Design
+HTML
+CSS
+C#
 
 
 
