@@ -16,7 +16,7 @@
 | `HTML/CSS` | `Effective communication` |
 | `C# (Avalonia UI, WPF)` |  |
 
-<h2 align="left">My Projects</a> 
+<h2 align="left">My projects</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/laptop.gif" height="32"/></h2>
 
 
