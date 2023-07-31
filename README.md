@@ -6,7 +6,7 @@
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32"/></h1>
 <h3 align="left">I work in product design. Student of the Faculty of Information Systems and Programming</h3>
 
-<h2 align="left">Hard skills</a> 
+<h2 align="left">Skills</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/glasses.gif" height="32"/></h2>
 <ul>
   <li>Product Design</li>
@@ -25,10 +25,10 @@
 
 | Hard skills | Soft skills |
 | --- | --- |
-| `Product Design` | List all *new or modified* files |
-| `UX/UI` | Show file differences that **haven't been** staged |
-| `HTML/CSS` | Show file differences that **haven't been** staged |
-| `C# (Avalonia UI, WPF)` | Show file differences that **haven't been** staged |
+| `Product Design` | `Motivation for development` |
+| `UX/UI` | `Purposefulness` |
+| `HTML/CSS` | `Effective communication` |
+| `C# (Avalonia UI, WPF)` |  |
 
 
 
