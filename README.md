@@ -6,7 +6,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">I work in product design. Student of the Faculty of Information Systems and Programming</h3>
 
-###Skills
+### Skills
 <!--
 **AndreiExtr/andreiExtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
