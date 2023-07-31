@@ -9,6 +9,8 @@
 <h2 align="left">Skills</a>
 <img src="https://media.giphy.com/media/mwD9BTxqsN8xF75fNA/giphy.gif" height="32"/></h2>
 
+<iframe src="https://giphy.com/embed/mwD9BTxqsN8xF75fNA" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3d-emoji-animated-emoticon-mwD9BTxqsN8xF75fNA">via GIPHY</a></p>
+
 <!--
 **AndreiExtr/andreiExtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
