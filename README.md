@@ -9,12 +9,12 @@
 <h2 align="left">Skills</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/glasses.gif" height="32"/></h2>
 
-| Hard skills | Soft skills |
-| --- | --- |
-| `Product Design` | `Motivation for development` |
-| `UX/UI` | `Purposefulness` |
-| `HTML/CSS` | `Effective communication` |
-| `C# (Avalonia UI, WPF)` |  |
+| Hard skills | Soft skills | Tools |
+| --- | --- | --- |
+| `Product Design` | `Motivation for development` | `Figma` |
+| `UX/UI` | `Purposefulness` | `Miro` |
+| `HTML/CSS` | `Effective communication` | `GitHub` |
+| `C# (Avalonia UI, WPF)` |  | `Visual Studio Code` |
 
 <h2 align="left">My projects</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/laptop.gif" height="32"/></h2>
