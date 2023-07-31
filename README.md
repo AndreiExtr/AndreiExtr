@@ -6,8 +6,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">I work in product design. Student of the Faculty of Information Systems and Programming</h3>
 
-<h2 align="left">Skills</a>
-<img src="https://giphy.com/embed/FpKixMu71s8mi6SSLE.gif" height="32"/></h2>
+### Skills
++ Product Design
++ HTML
++ CSS
++ C#
+
 
 
 
