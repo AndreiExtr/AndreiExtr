@@ -13,7 +13,7 @@
   <li>UX/UI</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>C#</li>
+  <li>C# (Avalonia UI, WPF)</li>
 </ul>
 
 
