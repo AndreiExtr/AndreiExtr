@@ -6,7 +6,8 @@
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32"/></h1>
 <h3 align="left">I work in product design. Student of the Faculty of Information Systems and Programming</h3>
 
-### Skills
+<h2 align="left">Skills</a> 
+<img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32"/></h2>
 + Product Design
 + HTML
 + CSS
