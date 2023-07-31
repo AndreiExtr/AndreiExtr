@@ -19,7 +19,7 @@
 <h2 align="left">My projects</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/laptop.gif" height="32"/></h2>
 
-[The first project in C#](/user/repository_name/wiki/page_name#title).
+[The first project in C#](https://github.com/AndreiExtr/Uploading_Excel)
 
 
 
