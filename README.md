@@ -10,6 +10,7 @@
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/glasses.gif" height="32"/></h2>
 <ul>
   <li>Product Design</li>
+  <li>UX/UI</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>C#</li>
