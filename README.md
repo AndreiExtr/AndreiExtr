@@ -7,7 +7,7 @@
 <h3 align="left">I work in product design. Student of the Faculty of Information Systems and Programming</h3>
 
 <h2 align="left">Skills</a>
-<img src="https://giphy.com/gifs/3d-emoji-animated-emoticon-DfipjJJu44zRaX1rdK" height="32"/></h2>
+<img src="https://media.giphy.com/media/mwD9BTxqsN8xF75fNA/giphy.gif" height="32"/></h2>
 
 <!--
 **AndreiExtr/andreiExtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
