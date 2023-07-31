@@ -6,8 +6,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">I work in product design. Student of the Faculty of Information Systems and Programming</h3>
 
-<h1 align="left">Skills</a> 
-<img src="https://giphy.com/gifs/3d-emoji-animated-emoticon-KBTvsr5EdxWv5NspWJ" height="32"/></h1>
+<h2 align="left">Skills</a> 
+<img src="https://giphy.com/gifs/3d-emoji-animated-emoticon-KBTvsr5EdxWv5NspWJ" height="32"/></h2>
 <h3 align="left">I work in product design. Student of the Faculty of Information Systems and Programming</h3>
 
 <!--
