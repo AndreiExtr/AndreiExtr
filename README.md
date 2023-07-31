@@ -16,6 +16,14 @@
   <li>C# (Avalonia UI, WPF)</li>
 </ul>
 
+<h2 align="left">Soft skills</a> 
+<img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/glasses.gif" height="32"/></h2>
+<ul>
+  <li>Motivation for development</li>
+  <li>Purposefulness</li>
+  <li>Effective communication</li>
+</ul>
+
 
 
 
