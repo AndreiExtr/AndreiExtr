@@ -4,11 +4,10 @@
 
 <h1 align="left">Hi there, I'm Andrey</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32"/></h1>
-I work in Product Design. <p>
-Junior Frontend developer. <p>
-Student of the Faculty of Information Systems and Programming. <p>
-I am open to cooperation and new projects <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/holy.gif" height="24"/> <p>
-How to contact me: telegram - https://t.me/AndreiExtr
+I work in Product Design.<p>
+Junior Frontend developer.<p>
+Student of the Faculty of Information Systems and Programming.<p>
+I am open to cooperation and new projects <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/holy.gif" height="24"/><p>
 
 <h2 align="left">Skills</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/glasses.gif" height="32"/></h2>
