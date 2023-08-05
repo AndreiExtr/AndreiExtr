@@ -4,8 +4,9 @@
 
 <h1 align="left">Hi there, I'm Andrey</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32"/></h1>
-I work in product design. 
-Student of the Faculty of Information Systems and Programming. <p>
+I work in Product Design. <p>
+Junior Frontend developer. Student of the Faculty of Information Systems and Programming. <p>
+I am open to cooperation and new projects <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/holy.gif" height="32"/>
 How to contact me: telegram - https://t.me/AndreiExtr
 
 <h2 align="left">Skills</a> 
