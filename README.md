@@ -5,7 +5,7 @@
 <h1 align="left">Hi there, I'm Andrey</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32"/></h1>
 I work in product design. 
-Student of the Faculty of Information Systems and Programming. 
+Student of the Faculty of Information Systems and Programming. <p>
 How to contact me: 
 
 <h2 align="left">Skills</a> 
