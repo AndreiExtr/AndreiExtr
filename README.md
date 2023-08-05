@@ -6,7 +6,7 @@
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32"/></h1>
 I work in product design. 
 Student of the Faculty of Information Systems and Programming. <p>
-How to contact me: [AndreExtr](https://t.me/AndreiExtr)
+How to contact me: https://t.me/AndreiExtr
 
 <h2 align="left">Skills</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/glasses.gif" height="32"/></h2>
