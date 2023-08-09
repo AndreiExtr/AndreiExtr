@@ -5,7 +5,7 @@ Student of the Faculty of Information Systems and Programming. I am open to coop
 
 
 ## Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=AndreiExtr&theme=highcontrast&show_icons=true&count_private=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiExtr&layout=compact)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiExtr&layout=compact)
 
 <h2 align="left">Skills</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/glasses.gif" height="32"/></h2>
