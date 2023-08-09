@@ -9,7 +9,7 @@ Junior Frontend developer.<p> Student of the Faculty of Information Systems and 
 
 
 ## Stats
-[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 <h2 align="left">Skills</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/glasses.gif" height="32"/></h2>
