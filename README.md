@@ -7,6 +7,10 @@
 I work in Product Design.<p>
 Junior Frontend developer.<p> Student of the Faculty of Information Systems and Programming.<p> I am open to cooperation and new projects <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/holy.gif" height="24"/><p>
 
+
+<h2 align="left">Stats</a>
+[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
+
 <h2 align="left">Skills</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/glasses.gif" height="32"/></h2>
 
