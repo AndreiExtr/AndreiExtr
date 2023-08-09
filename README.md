@@ -6,7 +6,7 @@ Student of the Faculty of Information Systems and Programming. I am open to coop
 
 ## Stats
 
-| <a href="https://github.com/AndreiExtr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreiExtr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/AndreiExtr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/AndreiExtr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreiExtr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/AndreiExtr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiExtr&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <h2 align="left">Skills</a> 
