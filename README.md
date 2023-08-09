@@ -9,7 +9,8 @@ Junior Frontend developer.<p> Student of the Faculty of Information Systems and 
 
 
 ## Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=AndreiExtr&theme=highcontrast&show_icons=true&count_private=true)
++ ![Github stats](https://github-readme-stats.vercel.app/api?username=AndreiExtr&theme=highcontrast&show_icons=true&count_private=true)
++ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiExtr&hide_progress=true)
 
 <h2 align="left">Skills</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/glasses.gif" height="32"/></h2>
