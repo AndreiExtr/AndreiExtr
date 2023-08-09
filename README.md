@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Andrey</a> 
+# Hi there, I'm Andrey
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32"/></h1>
 I work in Product Design.<p>
 Junior Frontend developer.<p> Student of the Faculty of Information Systems and Programming.<p> I am open to cooperation and new projects <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/holy.gif" height="24"/><p>
