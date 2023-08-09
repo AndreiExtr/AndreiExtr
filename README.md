@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Img/1.jpg" width=100% height=auto/>
-</div>
-
 <h1 align="left">Hi there, I'm Andrey</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32"/></h1>
 I work in Product Design.<p>
