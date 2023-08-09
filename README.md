@@ -9,7 +9,7 @@ Junior Frontend developer.<p> Student of the Faculty of Information Systems and 
 
 
 ## Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
 
 <h2 align="left">Skills</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/glasses.gif" height="32"/></h2>
