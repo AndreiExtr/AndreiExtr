@@ -24,6 +24,7 @@ Student of the Faculty of Information Systems and Programming. I am open to coop
 
 + [The first project in C#](https://github.com/AndreiExtr/Uploading_Excel.git)
 + [Neumorphism_elements](https://github.com/AndreiExtr/Neumorphism_elements.git)
++ [Ping-Pong](https://github.com/AndreiExtr/Ping-Pong.git)
 
 
 
