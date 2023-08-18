@@ -15,7 +15,7 @@ At the moment, he is a 3rd year student of the Faculty of Information Systems an
 | --- | --- | --- |
 | `Product Design` | `Motivation for development` | `Figma` |
 | `UX/UI` | `Purposefulness` | `Miro` |
-| `HTML/CSS` | `Effective communication` | `GitHub` |
+| `HTML/CSS` | `Effective communication` | `Git` |
 | `C# (Avalonia UI, WPF)` |  | `Visual Studio Code` |
 
 <h2 align="left">My projects</a> 
