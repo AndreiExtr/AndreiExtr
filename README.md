@@ -17,6 +17,7 @@ At the moment, he is a 3rd year student of the Faculty of Information Systems an
 | `UX/UI` | `Purposefulness` | `Miro` |
 | `HTML/CSS` | `Effective communication` | `Git` |
 | `C# (Avalonia UI, WPF)` |  | `Visual Studio Code` |
+| `Javascript/Typescript` |  | |
 
 <h2 align="left">My projects</a> 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/laptop.gif" height="32"/></h2>
