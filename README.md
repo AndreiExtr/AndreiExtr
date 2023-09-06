@@ -5,7 +5,7 @@ At the moment, he is a 3rd year student of the Faculty of Information Systems an
 
 ## Stats
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiExtr&theme=dark&show_icons=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiExtr&layout=compact)  |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiExtr&theme=default&show_icons=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiExtr&layout=compact)  |
 | ------------- | ------------- |
 
 <h2 align="left">Skills</a> 
