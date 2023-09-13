@@ -25,6 +25,7 @@ At the moment, he is a 3rd year student of the Faculty of Information Systems an
 + [The first project in C#](https://github.com/AndreiExtr/Uploading_Excel.git)
 + [Neumorphism_elements](https://github.com/AndreiExtr/Neumorphism_elements.git)
 + [Ping-Pong](https://github.com/AndreiExtr/Ping-Pong.git)
++ [NukleBall](https://github.com/AndreiExtr/NukleBall.git)
 
 
 
