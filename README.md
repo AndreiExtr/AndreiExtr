@@ -1,3 +1,6 @@
+# Hi there, I'm Andrey
+![Hi GIF](https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif)
+
 <h1 align="left">
   Hi there, I'm Andrey
   <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32" />
