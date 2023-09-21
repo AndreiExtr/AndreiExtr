@@ -1,5 +1,4 @@
-# Hi there, I'm Andrey
-![Hi GIF](https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif)
+# Hi there, I'm Andrey ![Hi GIF](https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif)
 
 <h1 align="left">
   Hi there, I'm Andrey
