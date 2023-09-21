@@ -1,5 +1,4 @@
-# Hi there, I'm Andrey 
-<img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32"/></h1>
+# Hi there, I'm Andrey  <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32"/></h1>
 I am engaged in product design: I develop a design system and plug-ins for Figma. I work closely with frontend developers. A novice frontend developer.
 At the moment, he is a 3rd year student of the Faculty of Information Systems and Programming. I am open for cooperation and new projects. <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/holy.gif" height="24"/><p>
 
