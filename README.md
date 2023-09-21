@@ -1,5 +1,3 @@
-# Hi there, I'm Andrey ![Hi GIF](https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif)
-
 <h1 align="left">
   Hi there, I'm Andrey
   <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32" />
@@ -13,7 +11,7 @@ At the moment, he is a 3rd year student of the Faculty of Information Systems an
 | ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AndreiExtr&theme=default&show_icons=true) |![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndreiExtr&layout=compact)  |
 | ------------- | ------------- |
 
-<h2 align="left">Skills</a> 
+<h2 align="left">Skills 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/glasses.gif" height="32"/></h2>
 
 | Hard skills | Soft skills | Tools | Library |
@@ -24,7 +22,7 @@ At the moment, he is a 3rd year student of the Faculty of Information Systems an
 | `C# (Avalonia UI, WPF)` |  | `Visual Studio Code` |  |
 | `Javascript/Typescript` |  |  |  |
 
-<h2 align="left">My projects</a> 
+<h2 align="left">My projects 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/laptop.gif" height="32"/></h2>
 
 + [The first project in C#](https://github.com/AndreiExtr/Uploading_Excel.git)
