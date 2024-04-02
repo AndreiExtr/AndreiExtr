@@ -17,7 +17,7 @@ At the moment, he is a 3rd year student of the Faculty of Information Systems an
 | Hard skills | Soft skills | Tools | Library |
 | --- | --- | --- | --- |
 | `Product Design` | `Motivation for development` | `Figma` | `ApexCharts` |
-| `UX/UI` | `Purposefulness` | `Miro` |  |
+| `UX/UI` | `Purposefulness` | `Miro` | `Vue.js` |
 | `HTML/CSS` | `Effective communication` | `Git` |  |
 | `C# (Avalonia UI, WPF)` |  | `Visual Studio Code` |  |
 | `Javascript/Typescript` |  |  |  |
