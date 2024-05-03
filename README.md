@@ -19,8 +19,8 @@ At the moment, he is a 3rd year student of the Faculty of Information Systems an
 | `Product Design` | `Motivation for development` | `Figma` | `ApexCharts.js` |
 | `UX/UI` | `Purposefulness` | `Miro` | `Vue.js` |
 | `HTML/CSS` | `Effective communication` | `Git` |  |
-| `C# (Avalonia UI, WPF)` |  | `Visual Studio Code` |  |
-| `Javascript/Typescript` |  |  |  |
+| `SCSS` |  | `Visual Studio Code` |  |
+| `Javascript` |  |  |  |
 
 <h2 align="left">My projects 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/laptop.gif" height="32"/></h2>
