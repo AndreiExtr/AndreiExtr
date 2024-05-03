@@ -21,6 +21,7 @@ At the moment, he is a 3rd year student of the Faculty of Information Systems an
 | `HTML/CSS` | `Effective communication` | `Git` |  |
 | `SCSS` |  | `Visual Studio Code` |  |
 | `Javascript` |  |  |  |
+| `Semantic and adaptive layout` |  |  |  |
 
 <h2 align="left">My projects 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/laptop.gif" height="32"/></h2>
