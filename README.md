@@ -9,7 +9,7 @@ At the moment, he is a 3rd year student of the Faculty of Information Systems an
 I am always in touch with Telegram, ready to cooperate.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndreiExtr)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/andrey-kropinov-4b179920a/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/andrey-kropinov-4b179920a/)
 
 ## Stats
 
