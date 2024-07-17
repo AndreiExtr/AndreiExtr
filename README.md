@@ -5,7 +5,7 @@
 I am engaged in product design: I develop a design system and plug-ins for Figma. I work closely with frontend developers. A novice frontend developer.
 At the moment, he is a 3rd year student of the Faculty of Information Systems and Programming. I am open for cooperation and new projects. <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/holy.gif" height="24"/><p>
 
-## Social media: 📡    
+## Social media 📡    
 I am always in touch with Telegram, ready to cooperate.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndreiExtr)
