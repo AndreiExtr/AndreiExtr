@@ -23,9 +23,9 @@ I am always in touch with Telegram, ready to cooperate.
 
 | Hard skills | Soft skills | Tools | Library |
 | --- | --- | --- | --- |
-| `Product Design` | `Motivation for development` | `Figma` | [ApexCharts.js](https://apexcharts.com/docs/installation/) |
-| `UX/UI` | `Purposefulness` | `Miro` | `Vue.js` |
-| `HTML/CSS` | `Effective communication` | `Git` | `Axios` |
+| `Product Design` | `Motivation for development` | `Figma` | [ApexCharts.js](https://apexcharts.com/docs/installation/)|
+| `UX/UI` | `Purposefulness` | `Miro` | [Vue.js](https://vueframework.com/) |
+| `HTML/CSS` | `Effective communication` | `Git` | [Axios](https://axios-http.com/) |
 | `SCSS` |  | `Visual Studio Code` |  |
 | `Javascript` |  |  |  |
 | `Semantic and adaptive layout` |  |  |  |
