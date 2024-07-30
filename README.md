@@ -25,7 +25,7 @@ I am always in touch with Telegram, ready to cooperate.
 | --- | --- | --- | --- |
 | `Product Design` | `Motivation for development` | `Figma` | `ApexCharts.js` |
 | `UX/UI` | `Purposefulness` | `Miro` | `Vue.js` |
-| `HTML/CSS` | `Effective communication` | `Git` |  |
+| `HTML/CSS` | `Effective communication` | `Git` | `Axios` |
 | `SCSS` |  | `Visual Studio Code` |  |
 | `Javascript` |  |  |  |
 | `Semantic and adaptive layout` |  |  |  |
