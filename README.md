@@ -33,7 +33,7 @@ I am always in touch with Telegram, ready to cooperate.
 <h2 align="left">My projects 
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/laptop.gif" height="32"/></h2>
 
-+ [The first project in C#](https://github.com/AndreiExtr/Uploading_Excel.git)
++ [Website Chess](https://github.com/AndreiExtr/Website_Chess.git)
 + [Ping-Pong](https://github.com/AndreiExtr/Ping-Pong.git)
 + [NukleBall](https://github.com/AndreiExtr/NukleBall.git)
 
