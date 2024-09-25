@@ -34,7 +34,8 @@ I am always in touch with Telegram, ready to cooperate.
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/laptop.gif" height="32"/></h2>
 
 + [Website Chess](https://github.com/AndreiExtr/Website_Chess.git)
-+ [Ping-Pong](https://github.com/AndreiExtr/Ping-Pong.git)
++ [API Sports](https://github.com/AndreiExtr/API_Sports.git)
++ [Vue Restaurant](https://github.com/AndreiExtr/Restaurant.git)
 + [NukleBall](https://github.com/AndreiExtr/NukleBall.git)
 
 
