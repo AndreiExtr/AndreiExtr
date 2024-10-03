@@ -7,16 +7,15 @@ I have advanced concepts for developing Frontend applications on Vue.
 I take the initiative, approach my duties responsibly and am ready for productive work. I am actively engaged in self-development, expanding my horizons in the field of information technology. I read medium, habr, YouTube and some courses related to my profession. 
 I am open for cooperation and new projects. 
 ✅ Skills:
-* JavaScript
-* HTML5
-- CSS, CSS
-- Vue 3
-- Next.js
-- Git, GitHub, GitLab
-- Axios
-- BEM
-- Figma
-- Cross-browser compatibility and adaptability
++ JavaScript
++ HTML5
++ CSS, CSS
++ Vue 3
++ Git
++ Axios
++ BEM
++ Figma
++ Cross-browser compatibility and adaptability
  <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/holy.gif" height="24"/><p>
 
 ## Social media 📡    
