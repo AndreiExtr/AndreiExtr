@@ -2,21 +2,29 @@
   Hi there, I'm Andrey
   <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32" />
 </h1>
-I am a novice frontend developer and I am engaged in product design: I develop a design system in Figma and work closely with frontend developers.
-I have advanced concepts for developing Frontend applications on Vue.
-I take the initiative, approach my duties responsibly and am ready for productive work. I am actively engaged in self-development, expanding my horizons in the field of information technology. I read medium, habr, YouTube and some courses related to my profession. 
-I am open for cooperation and new projects. 
-✅ Skills:
-+ JavaScript
-+ HTML5
-+ CSS, CSS
-+ Vue 3
-+ Git
-+ Axios
-+ BEM
-+ Figma
-+ Cross-browser compatibility and adaptability
- <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/holy.gif" height="24"/><p>
+
+<p>
+  I am a novice frontend developer and I am engaged in product design: I develop a design system in Figma and work closely with frontend developers.
+  I have advanced concepts for developing Frontend applications on Vue.
+  I take the initiative, approach my duties responsibly and am ready for productive work. I am actively engaged in self-development, expanding my horizons in the field of information technology. I read medium, habr, YouTube and some courses related to my profession.
+  I am open for cooperation and new projects.
+</p>
+
+<h3>✅ Skills:</h3>
+<ul>
+  <li>JavaScript</li>
+  <li>HTML5</li>
+  <li>CSS</li>
+  <li>Vue 3</li>
+  <li>Git</li>
+  <li>Axios</li>
+  <li>BEM</li>
+  <li>Figma</li>
+  <li>Cross-browser compatibility and adaptability</li>
+</ul>
+
+<img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/holy.gif" height="24"/>
+
 
 ## Social media 📡    
 I am always in touch with Telegram, ready to cooperate.
