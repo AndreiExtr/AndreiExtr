@@ -7,7 +7,7 @@ I have advanced concepts for developing Frontend applications on Vue.
 I take the initiative, approach my duties responsibly and am ready for productive work. I am actively engaged in self-development, expanding my horizons in the field of information technology. I read medium, habr, YouTube and some courses related to my profession. 
 I am open for cooperation and new projects. 
 ✅ Skills:
-- JavaScript
+1. JavaScript
 - HTML5
 - - CSS, CSS
 - Vue 3
