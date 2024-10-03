@@ -2,8 +2,21 @@
   Hi there, I'm Andrey
   <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32" />
 </h1>
-I am engaged in product design: I develop a design system and plug-ins for Figma. I work closely with frontend developers. A novice frontend developer.
-At the moment, he is a 3rd year student of the Faculty of Information Systems and Programming. I am open for cooperation and new projects. <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/holy.gif" height="24"/><p>
+I am a novice frontend developer and I am engaged in product design: I develop a design system in Figma and work closely with frontend developers.
+I have advanced concepts for developing Frontend applications on Vue.
+I take the initiative, approach my duties responsibly and am ready for productive work. I am actively engaged in self-development, expanding my horizons in the field of information technology. I read medium, habr, YouTube and some courses related to my profession. 
+I am open for cooperation and new projects. 
+✅ Skills:
+- JavaScript
+- HTML5
+- - CSS, CSS
+- Vue 3
+- Next.js
+- Git, GitHub, GitLab
+- Axios
+- BEM
+- Figma
+- Cross-browser compatibility and adaptability <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/holy.gif" height="24"/><p>
 
 ## Social media 📡    
 I am always in touch with Telegram, ready to cooperate.
