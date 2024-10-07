@@ -53,7 +53,7 @@ I am always in touch with Telegram, ready to cooperate.
 <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/laptop.gif" height="32"/></h2>
 
 + [Website Chess](https://github.com/AndreiExtr/Website_Chess.git)
-+ [Website Budss](https://andreiextr.github.io/Website_Budss/)
++ [Website Budss](https://github.com/AndreiExtr/Website_Budss)
 + [API Sports](https://github.com/AndreiExtr/API_Sports.git)
 + [Vue Restaurant](https://github.com/AndreiExtr/Restaurant.git)
 + [NukleBall](https://github.com/AndreiExtr/NukleBall.git)
