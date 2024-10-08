@@ -15,6 +15,7 @@
   <li>JavaScript</li>
   <li>HTML5</li>
   <li>CSS</li>
+  <li>DOM</li>
   <li>Vue 3</li>
   <li>Git</li>
   <li>Axios</li>
