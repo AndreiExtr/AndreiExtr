@@ -14,7 +14,7 @@
 <ul>
   <li>JavaScript</li>
   <li>HTML5</li>
-  <li>CSS</li>
+  <li>CSS/SCSS</li>
   <li>DOM</li>
   <li>Vue 3</li>
   <li>Git</li>
