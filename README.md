@@ -2,7 +2,7 @@
   Hi there, I'm Andrey
   <img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/Hi.gif" height="32" />
 </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=600&lines=Full+Stack+Web+Developer;I+develop+a+design+system;I+am+proactive%2C+responsible%2C+and+ready+to+contribute." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=700&lines=Full+Stack+Web+Developer;I+develop+a+design+system;I+am+proactive%2C+responsible%2C+and+ready+to+contribute." alt="Typing SVG" /></a>
 
 <p>
   I am a novice frontend developer and I am engaged in product design: I develop a design system in Figma and work closely with frontend developers.
