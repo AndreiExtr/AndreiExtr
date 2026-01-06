@@ -4,13 +4,6 @@
 </h1>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-<p>
-  I am a novice frontend developer and I am engaged in product design: I develop a design system in Figma and work closely with frontend developers.
-  I have advanced concepts for developing Frontend applications on Vue.
-  I take the initiative, approach my duties responsibly and am ready for productive work. I am actively engaged in self-development, expanding my horizons in the field of information technology. I read medium, habr, YouTube and some courses related to my profession.
-  I am open for cooperation and new projects.<img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/holy.gif" height="24"/>
-</p>
-
 <h3>✅ Skills:</h3>
 <ul>
   <li>JavaScript</li>
