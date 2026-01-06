@@ -4,12 +4,12 @@
 </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=700&lines=Full+Stack+Web+Developer;I+develop+a+design+system;I+am+proactive%2C+responsible%2C+and+ready+to+contribute." alt="Typing SVG" /></a>
 
-<p>
+<!-- <p>
   I am a novice frontend developer and I am engaged in product design: I develop a design system in Figma and work closely with frontend developers.
   I have advanced concepts for developing Frontend applications on Vue.
   I take the initiative, approach my duties responsibly and am ready for productive work. I am actively engaged in self-development, expanding my horizons in the field of information technology. I read medium, habr, YouTube and some courses related to my profession.
   I am open for cooperation and new projects.<img src="https://github.com/AndreiExtr/andreiExtr/blob/main/Gifs/holy.gif" height="24"/>
-</p>
+</p> -->
 
 <h3>✅ Skills:</h3>
 <ul>
